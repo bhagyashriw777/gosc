@@ -1,4 +1,4 @@
-module github.com/bhagyashri777/gosc
+module github.com/bhagyashriw777/gosc
 
 go 1.19
 
