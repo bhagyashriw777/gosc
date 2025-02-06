@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kost/gosc/msf"
+	"github.com/bhagyashriw777/gosc/msf"
 	flag "github.com/spf13/pflag"
 )
 

@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/bhagyashriw777/gosc/shell"
 	"os"
-	"github.com/kost/gosc/shell"
 )
 
 func main() {
